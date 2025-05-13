@@ -29,7 +29,13 @@ export const styles = StyleSheet.create({
       backgroundColor: colors.background,
       justifyContent: 'center',
       alignItems: 'center',
-    }
+    },
+    button: {
+      backgroundColor: colors.secondary,
+      padding: 10,
+      borderRadius: 5,
+      marginTop: 20,
+    },
   });
 
 export const textStyles = StyleSheet.create({
