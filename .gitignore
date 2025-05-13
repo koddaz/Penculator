@@ -9,6 +9,11 @@ dist/
 web-build/
 expo-env.d.ts
 
+#Node package files
+package-lock.json
+package.json
+
+
 # Native
 .kotlin/
 *.orig.*
